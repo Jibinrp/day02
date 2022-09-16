@@ -17,3 +17,6 @@ You can access it via window.document or document.
 document object has many useful methods defined on it.
 For example, document.getElementById(), document.getElementByTagName(), document.createElement(), document.querySelector() and many more
 document API
+
+
+Document Object: The document object represent a web page that is loaded in the browser. By accessing the document object, we can access the element in the HTML page. With the help of document objects, we can add dynamic content to our web page. The document object can be accessed with a window.document or just document.
